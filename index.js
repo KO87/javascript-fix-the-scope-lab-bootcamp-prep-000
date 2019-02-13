@@ -5,7 +5,6 @@ function myAnimal() {
   return animal
 }
 
-yourAnimal();
 function yourAnimal() {
   console.log("cat");
   return animal
